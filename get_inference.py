@@ -1,3 +1,6 @@
+#This code is originally written by Pawan Kumar : https://github.com/PawanKuma/DL_TF_get_classnames_and_coordinates.
+#I have made a few changes so as to suit my requirements.
+
 import os
 import cv2
 import numpy as np
